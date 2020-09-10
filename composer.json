@@ -1,0 +1,8 @@
+{
+    "name": "soderlind/multisite-mailpoet-cron",
+    "description": "Multisite Mailpoet Cron",
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/soderlind/multisite-mailpoet-cron",
+    "license": "GPL-2.0-or-later",
+    "require": {}
+}
